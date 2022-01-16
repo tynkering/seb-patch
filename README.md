@@ -26,7 +26,7 @@
   <b>Q2: What can my exam organizer/teacher do with my SEB logs anyways?</b><br />
   <b>A:</b> Welp, surprisingly... Not much from what we analyzed. Although they can always obtain <i>as referred on the quote before</i> your <b>computer hostname</b> and <b>account user name</b>. If you're running SEB on a virtual machine, obviously, that it's not going to match your original laptop's model or <i>even a valid computer model in that matter</i>. Example below.
 
-<i>(<a href="https://github.com/tynkering/seb-patch/blob/main/logs/yyyy-mm-dd_hhhnnmsss_Runtime.log"><code>yyyy</code>-<code>mm</code>-<code>dd</code>_<code>hh</code>h<code>nn</code>m<code>ss</code>s_Runtime.log</a> @ Line 7):</i>
+<i>(<a href="https://github.com/tynkering/seb-patch/blob/main/logs/yyyy-mm-dd_hhhnnmsss_Runtime.log"><code>yyyy</code>-<code>mm</code>-<code>dd</code>_<code>hh</code>h<code>nn</code>m<code>ss</code>s_Runtime.log</a> @ Line 8):</i>
 <br />
 
   <table>
