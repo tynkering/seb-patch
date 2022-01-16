@@ -14,7 +14,7 @@
 <details>
   <summary><b>FAQ</b> (Click to expand/collapse)</summary>
   <b>Q1: Does my exam organizer/teacher get notified if I'm using a Virtual Machine?</b><br>
-  <b>A: Short answer is no</b>. <i>Although, in theory, those that are more <b>tech-savvy</b>, could ask for your SEB logs</i>.
+  <b>A: Short answer is no</b>. <i>Although, in theory, those that are more <b>tech-savvy</b>, could ask for your <a href="https://github.com/tynkering/seb-patch/tree/main/logs">SEB logs</a></i>.
   <br />
   <br />
   
