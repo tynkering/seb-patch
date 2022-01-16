@@ -1,0 +1,140 @@
+﻿# New client instance started at yyyy-mm-dd hh:nn:ss.fff
+
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Initiating startup procedure...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Loading text data...
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [Text] Data successfully loaded.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Initializing runtime connection...
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [RuntimeProxy] Trying to connect to endpoint 'net.pipe://localhost/safeexambrowser/runtime/9qkui1n7-p5om-5h0l-knqo-ptamv0zgqkl3' with authentication token 'nk6ez1td-sx20-ydsl-30p6-9wytpmk9qfdp'...
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [RuntimeProxy] Communication channel is opening...
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [RuntimeProxy] Communication channel has been opened.
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [RuntimeProxy] Connection was established.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Successfully connected to the runtime.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Initializing application configuration...
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [RuntimeProxy] Sending message 'SimpleMessage -> ConfigurationNeeded'...
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [RuntimeProxy] Received response 'ConfigurationResponse' for message 'SimpleMessage -> ConfigurationNeeded'.
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [RuntimeProxy] Received configuration response.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Successfully retrieved the application configuration from the runtime.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO:  -> Client-ID: fj5a1isi-hf72-g78s-489k-we2e4qkbc2k6
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO:  -> Runtime-ID: t3og8i0e-ffbh-tyai-ucw0-1hpbfmskimxs
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO:  -> Session-ID: bbo5oyva-b2ka-xrpt-vxjc-c83nfiee8g4p
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Starting communication host...
+yyyy-mm-dd hh:nn:ss.fff [06] - DEBUG: [ClientHost] Communication host is opening...
+yyyy-mm-dd hh:nn:ss.fff [06] - DEBUG: [ClientHost] Communication host has been opened.
+yyyy-mm-dd hh:nn:ss.fff [06] - DEBUG: [ClientHost] Successfully started communication host for endpoint 'net.pipe://localhost/safeexambrowser/client/pfun2bhz-o9zu-5xmu-8l15-e0e1em661nvy'.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Starting keyboard interception...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Starting mouse interception...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Initializing applications...
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [ApplicationMonitor] Initialized 218 currently running processes.
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [ApplicationMonitor] Initialized blacklist with 36 applications: CamRecorder.exe, g2mcomm.exe, AA_v3.exe, ptoneclk.exe, webexmta.exe, Teams.exe, join.me.sentinel.exe, join.me.exe, g2mstart.exe, g2mlauncher.exe, Telegram.exe, Zoom.exe, Element.exe, slack.exe, CamtasiaUtl.exe, CamPlay.exe, Camtasia_Studio.exe, CamtasiaStudio.exe, Camtasia.exe, Discord.exe, RPCSuite.exe, RPCService.exe, RemotePCDesktop.exe, beamyourscreen-host.exe, AeroAdmin.exe, Mikogo-host.exe, chromoting.exe, vncserverui.exe, vncviewer.exe, vncserver.exe, TeamViewer.exe, GotoMeetingWinStore.exe, g2mcomm.exe, SkypeHost.exe, SkypeApp.exe, Skype.exe
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [ApplicationMonitor] Started monitoring applications.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [ApplicationMonitor] Registered system capture start event with ID = bd9eb3e7-1f09-4ca5-8b6e-f8c59bd4a09b.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [ApplicationMonitor] Registered system foreground event with ID = c10192a6-6858-47e3-b8c5-a89fde1e7b84.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Initializing working area...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [DisplayMonitor] Disabled sleep mode and display timeout.
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [Taskbar] Calculated physical taskbar height is 40px.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [DisplayMonitor] Saved original working area for DISPLAY1 (1920x1080): Left = 0, Top = 0, Right = 1920, Bottom = 1040.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [DisplayMonitor] Trying to set new working area for DISPLAY1 (1920x1080): Left = 0, Top = 0, Right = 1920, Bottom = 1040.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [DisplayMonitor] Working area of DISPLAY1 (1920x1080) is now set to: Left = 0, Top = 0, Right = 1920, Bottom = 1040.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [DisplayMonitor] Started monitoring display changes.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Initializing system events...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [SystemMonitor] Started monitoring the operating system.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Initializing shell...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [Audio] Found 'Speakers (2- High Definition Audio Device)' to be the active audio device.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [Audio] Started monitoring the audio device.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [Keyboard] Saved current keyboard layout 'Português (Portugal)' (POR).
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [Keyboard] Detected keyboard layout 'Português (Portugal)' (POR).
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [Keyboard] Detected keyboard layout 'Inglês (E.U.A.)' (ENG).
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [PowerSupply] Started monitoring the power supply.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [WirelessAdapter] Started monitoring the wireless network adapter.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Initializing action center...
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [PowerSupply] Power grid is not connected, battery charge at 87% (01:32:00).
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Initializing taskbar...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Initializing task view...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Initializing browser...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [BrowserApplication] Starting initialization...
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [BrowserApplication] Cache Path: C:\Users\User\AppData\Local\SafeExamBrowser\Cache
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [BrowserApplication] Engine Version: Chromium 92.0.4515.131, CEF r92.0.25+gd15cfa8+chromium-92.0.4515.131, CefSharp 92.0.251.0
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [BrowserApplication] Log File: C:\Users\User\AppData\Local\SafeExamBrowser\Logs\yyyy-mm-dd_hhhnnmsss_Browser.log
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [BrowserApplication] Log Severity: Info.
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [BrowserApplication] PDF Reader: Enabled.
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [BrowserApplication] Session Persistence: Disabled.
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [BrowserApplication] Successfully initiated cookie deletion.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [BrowserApplication] Initialized browser.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Emptying clipboard...
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [Taskbar] Set taskbar bounds to 1920x40 at (0/1040), in physical pixels: 1920x40 at (0/1040).
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Auto-starting browser...
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [Browser Instance #1] Initialized browser control.
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [Browser Instance #1] Initialized browser window.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [BrowserApplication] Created browser instance 1.
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [RuntimeProxy] Sending message 'SimpleMessage -> ClientIsReady'...
+yyyy-mm-dd hh:nn:ss.fff [16] - DEBUG: [ApplicationMonitor] Window has changed from  to 'Taskbar' (1443178).
+yyyy-mm-dd hh:nn:ss.fff [16] - DEBUG: [ApplicationMonitor] Window has changed from 'Taskbar' (1443178) to '' (328318).
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [RuntimeProxy] Received response 'SimpleResponse -> Acknowledged' for message 'SimpleMessage -> ClientIsReady'.
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [RuntimeProxy] Runtime acknowledged that the client is ready.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Application successfully initialized.
+
+yyyy-mm-dd hh:nn:ss.fff [09] - DEBUG: [ClientHost] Received connection request with authentication token 'nk6ez1td-sx20-ydsl-30p6-9wytpmk9qfdp'.
+yyyy-mm-dd hh:nn:ss.fff [09] - DEBUG: [ClientHost] Accepted connection request.
+yyyy-mm-dd hh:nn:ss.fff [11] - DEBUG: [ClientHost] Received message 'SimpleMessage -> Authenticate', sending response 'AuthenticationResponse'.
+yyyy-mm-dd hh:nn:ss.fff [16] - DEBUG: [ApplicationMonitor] Window has changed from '' (328318) to 'ActionCenter' (9766502).
+yyyy-mm-dd hh:nn:ss.fff [16] - DEBUG: [ApplicationMonitor] Window has changed from 'ActionCenter' (9766502) to '' (328318).
+yyyy-mm-dd hh:nn:ss.fff [26] - DEBUG: [BrowserApplication] Deleted 0 cookies.
+yyyy-mm-dd hh:nn:ss.fff [16] - DEBUG: [ApplicationMonitor] Window has changed from '' (328318) to 'ActionCenter' (9766502).
+yyyy-mm-dd hh:nn:ss.fff [25] - DEBUG: [ApplicationMonitor] Process 'CefSharp.BrowserSubprocess.exe' (3876) has been started.
+yyyy-mm-dd hh:nn:ss.fff [25] - DEBUG: [ApplicationMonitor] Process 'CefSharp.BrowserSubprocess.exe' (6768) has been started.
+yyyy-mm-dd hh:nn:ss.fff [25] - DEBUG: [ApplicationMonitor] Process 'CefSharp.BrowserSubprocess.exe' (10180) has been started.
+yyyy-mm-dd hh:nn:ss.fff [25] - DEBUG: [ApplicationMonitor] Process 'CefSharp.BrowserSubprocess.exe' (5452) has been started.
+yyyy-mm-dd hh:nn:ss.fff [23] - DEBUG: [Browser Instance #1] Navigated.
+yyyy-mm-dd hh:nn:ss.fff [23] - DEBUG: [Browser Instance #1] Navigated.
+yyyy-mm-dd hh:nn:ss.fff [16] - DEBUG: [ApplicationMonitor] Window has changed from 'ActionCenter' (9766502) to 'Safe Exam Browser' (328318).
+yyyy-mm-dd hh:nn:ss.fff [16] - DEBUG: [ApplicationMonitor] Window has changed from 'Safe Exam Browser' (328318) to 'Taskbar' (1443178).
+yyyy-mm-dd hh:nn:ss.fff [16] - DEBUG: [ApplicationMonitor] Window has changed from 'Taskbar' (1443178) to 'Quit?' (7144596).
+yyyy-mm-dd hh:nn:ss.fff [15] - DEBUG: [ApplicationMonitor] Window has changed from 'Quit?' (7144596) to '&Sim' (1705670).
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: The user chose to terminate the application.
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [RuntimeProxy] Sending message 'SimpleMessage -> RequestShutdown'...
+yyyy-mm-dd hh:nn:ss.fff [16] - DEBUG: [ApplicationMonitor] Window has changed from '&Sim' (1705670) to 'Taskbar' (1443178).
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [RuntimeProxy] Received response 'SimpleResponse -> Acknowledged' for message 'SimpleMessage -> RequestShutdown'.
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [RuntimeProxy] Runtime acknowledged shutdown request.
+yyyy-mm-dd hh:nn:ss.fff [11] - DEBUG: [ClientHost] Received message 'SimpleMessage -> Shutdown', sending response 'SimpleResponse -> Acknowledged'.
+
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Initiating shutdown procedure...
+yyyy-mm-dd hh:nn:ss.fff [16] - DEBUG: [ApplicationMonitor] Window has changed from 'Taskbar' (1443178) to 'SplashScreen' (1509030).
+yyyy-mm-dd hh:nn:ss.fff [10] - DEBUG: [ClientHost] Received disconnection request with message 'DisconnectionMessage'.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Emptying clipboard...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Terminating browser...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [BrowserApplication] Initiating termination...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [Browser Instance #1] Instance has terminated.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [BrowserApplication] Terminated browser instance 1.
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [BrowserApplication] Successfully initiated cookie deletion.
+yyyy-mm-dd hh:nn:ss.fff [21] - DEBUG: [BrowserApplication] Deleted 0 cookies.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [BrowserApplication] Terminated browser.
+yyyy-mm-dd hh:nn:ss.fff [01] - ERROR: [BrowserApplication] Failed to delete browser cache!
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Terminating shell...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [Audio] Stopped monitoring the audio device.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [Keyboard] Restored original keyboard layout 'Português (Portugal)' (POR).
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [PowerSupply] Stopped monitoring the power supply.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [WirelessAdapter] Stopped monitoring the wireless network adapter.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Finalizing system events...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [SystemMonitor] Stopped monitoring the operating system.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Restoring working area...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [DisplayMonitor] Stopped monitoring display changes.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [DisplayMonitor] Restored original working area for DISPLAY1 (1920x1080): Left = 0, Top = 0, Right = 1920, Bottom = 1040.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Finalizing applications...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [ApplicationMonitor] Stopped monitoring applications.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [ApplicationMonitor] Unregistered system capture start event with ID = bd9eb3e7-1f09-4ca5-8b6e-f8c59bd4a09b.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: [ApplicationMonitor] Unregistered system foreground event with ID = c10192a6-6858-47e3-b8c5-a89fde1e7b84.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Stopping mouse interception...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Stopping keyboard interception...
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: The runtime has already disconnected from the client communication host.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Stopping communication host...
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [ClientHost] Communication host is closing...
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [ClientHost] Communication host has been closed.
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [ClientHost] Terminated communication host for endpoint 'net.pipe://localhost/safeexambrowser/client/pfun2bhz-o9zu-5xmu-8l15-e0e1em661nvy'.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Closing runtime connection...
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [RuntimeProxy] Communication channel is closing...
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [RuntimeProxy] Communication channel has been closed.
+yyyy-mm-dd hh:nn:ss.fff [01] - DEBUG: [RuntimeProxy] Disconnected from 'net.pipe://localhost/safeexambrowser/runtime/9qkui1n7-p5om-5h0l-knqo-ptamv0zgqkl3'.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Successfully disconnected from the runtime.
+yyyy-mm-dd hh:nn:ss.fff [01] - INFO: Application successfully finalized.
+
+# Client instance terminated at yyyy-mm-dd hh:nn:ss.fff
