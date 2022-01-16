@@ -26,7 +26,7 @@
   <b>Q2: What can my exam organizer/teacher do with my SEB logs anyways?</b><br />
   <b>A:</b> Welp, surprisingly... Not much from what we analyzed. Although they can always obtain <i>as referred on the quote before</i> your <b>computer hostname</b> and <b>account user name</b>. If you're running SEB on a virtual machine, obviously, that it's not going to match your original laptop's model or <i>even a valid computer model in that matter</i>. Example below.
 
-<i>(<code>YYYY-MM-DD</code>\_<code>hh:mm:ss</code>\_Runtime.log @ Line 7):</i>
+<i>(<a href="https://github.com/tynkering/seb-patch/blob/main/logs/yyyy-mm-dd_hhhnnmsss_Runtime.log"><code>yyyy</code>-<code>mm</code>-<code>dd</code>_<code>hh</code>h<code>nn</code>m<code>ss</code>s_Runtime.log</a> @ Line 7):</i>
 <br />
 
   <table>
@@ -46,9 +46,10 @@
       <td align="center">❌</td></center>
     </tr>
   </table>
-    
-  <b><i>Coming Soon!</i></b><br />
-  <b>Q̶3̶:̶ ̶W̶h̶a̶t̶ ̶i̶f̶ ̶m̶y̶ ̶e̶x̶a̶m̶ ̶o̶r̶g̶a̶n̶i̶z̶e̶r̶/̶t̶e̶a̶c̶h̶e̶r̶ ̶d̶o̶e̶s̶ ̶a̶s̶k̶ ̶f̶o̶r̶ ̶m̶y̶ ̶S̶E̶B̶ ̶l̶o̶g̶s̶ ̶a̶f̶t̶e̶r̶ ̶m̶y̶ ̶e̶x̶a̶m̶/̶t̶e̶s̶t̶?̶ ̶A̶m̶ ̶I̶ ̶d̶o̶o̶m̶e̶d̶?̶</b>
+  
+  <b>Q3: What if my exam organizer/teacher does ask for my SEB logs after my exam/test? Am I doomed?</b>
   <br />
   <b>A:</b> No, don't panic. In this repository @ the folder <code>\logs</code> we provide a solution to this problem.
+  
+  <b><i>More coming soon!</i></b><br />
  </details>
